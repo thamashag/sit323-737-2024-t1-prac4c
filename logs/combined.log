@@ -1,0 +1,7 @@
+{"level":"info","message":"Multiplication operation completed","service":"calculator-microservice"}
+{"level":"info","message":"Addition operation completed","service":"calculator-microservice"}
+{"level":"info","message":"Division operation completed","service":"calculator-microservice"}
+{"level":"info","message":"Square root operation completed","service":"calculator-microservice"}
+{"level":"info","message":"Modulo operation completed","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation operation completed","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation operation completed","service":"calculator-microservice"}
